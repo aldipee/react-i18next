@@ -1,0 +1,22 @@
+{
+  "title": "Made by someone",
+
+  "HomeData": {
+    "title": "Student Data",
+    "table": {
+      "name": "Full Name",
+      "email": "Email",
+      "cnScore": "Chinese Score",
+      "mathScore": "Math Score",
+      "enScore": "English Score"
+    }
+  },
+  "SideMenu": {
+    "data": "Data",
+    "user": {
+      "title": "User",
+      "userManagement": "User Management"
+    },
+    "file": "File"
+  }
+}

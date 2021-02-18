@@ -1,0 +1,322 @@
+[
+  {
+    "key": 0,
+    "name": "Queen Wahyuni",
+    "email": "Misael.Maheswara@yahoo.co.id",
+    "chinese": 5997,
+    "math": 89762,
+    "english": 73359
+  },
+  {
+    "key": 1,
+    "name": "Among Wijaya",
+    "email": "Oran23@yahoo.co.id",
+    "chinese": 29926,
+    "math": 41952,
+    "english": 65232
+  },
+  {
+    "key": 2,
+    "name": "Dewi Purwanti S.Pd",
+    "email": "Percy.Handayani58@gmail.co.id",
+    "chinese": 37068,
+    "math": 66882,
+    "english": 94373
+  },
+  {
+    "key": 3,
+    "name": "Diana Halimah",
+    "email": "Javier6@yahoo.com",
+    "chinese": 10177,
+    "math": 57988,
+    "english": 94529
+  },
+  {
+    "key": 4,
+    "name": "Paris Wahyuni",
+    "email": "Natasha.Halim68@gmail.com",
+    "chinese": 89788,
+    "math": 37652,
+    "english": 17538
+  },
+  {
+    "key": 5,
+    "name": "Vicky Pratiwi",
+    "email": "Hassie98@yahoo.com",
+    "chinese": 79970,
+    "math": 64648,
+    "english": 34246
+  },
+  {
+    "key": 6,
+    "name": "Ilsa Andriani",
+    "email": "Albert_Novitasari@gmail.co.id",
+    "chinese": 46003,
+    "math": 49345,
+    "english": 53865
+  },
+  {
+    "key": 7,
+    "name": "Sari Aryani",
+    "email": "Sid_Ardianto17@gmail.co.id",
+    "chinese": 32722,
+    "math": 15853,
+    "english": 73945
+  },
+  {
+    "key": 8,
+    "name": "Siti Purwanti",
+    "email": "Abdul_Wahyuni19@yahoo.com",
+    "chinese": 43629,
+    "math": 22253,
+    "english": 32125
+  },
+  {
+    "key": 9,
+    "name": "Ilsa Hariyah",
+    "email": "Gaylord89@gmail.co.id",
+    "chinese": 26875,
+    "math": 27208,
+    "english": 37083
+  },
+  {
+    "key": 10,
+    "name": "Padmi Suryatmi S.Farm",
+    "email": "Korey83@yahoo.com",
+    "chinese": 17932,
+    "math": 4600,
+    "english": 22839
+  },
+  {
+    "key": 11,
+    "name": "Jagaraga Firgantoro",
+    "email": "Elyssa_Manullang10@yahoo.com",
+    "chinese": 89309,
+    "math": 31955,
+    "english": 8980
+  },
+  {
+    "key": 12,
+    "name": "Clara Anggraini",
+    "email": "Claire21@yahoo.com",
+    "chinese": 66468,
+    "math": 70662,
+    "english": 42176
+  },
+  {
+    "key": 13,
+    "name": "Jono Hutasoit S.Gz",
+    "email": "Austin_Rahmawati27@gmail.co.id",
+    "chinese": 7755,
+    "math": 74705,
+    "english": 12298
+  },
+  {
+    "key": 14,
+    "name": "Puji Agustina",
+    "email": "Fern.Nuraini@yahoo.com",
+    "chinese": 28366,
+    "math": 47440,
+    "english": 44120
+  },
+  {
+    "key": 15,
+    "name": "Alika Mulyani",
+    "email": "Savanah33@gmail.com",
+    "chinese": 65085,
+    "math": 32795,
+    "english": 25590
+  },
+  {
+    "key": 16,
+    "name": "Nurul Nasyiah",
+    "email": "Isobel99@yahoo.com",
+    "chinese": 18575,
+    "math": 38240,
+    "english": 13871
+  },
+  {
+    "key": 17,
+    "name": "Carub Wibowo",
+    "email": "Declan.Sudiati53@yahoo.co.id",
+    "chinese": 18220,
+    "math": 34851,
+    "english": 712
+  },
+  {
+    "key": 18,
+    "name": "Salwa Wulandari S.E.",
+    "email": "Mona93@yahoo.co.id",
+    "chinese": 59749,
+    "math": 65014,
+    "english": 37654
+  },
+  {
+    "key": 19,
+    "name": "Vanesa Wahyuni",
+    "email": "Brendan.Oktaviani@gmail.com",
+    "chinese": 23879,
+    "math": 5214,
+    "english": 21935
+  },
+  {
+    "key": 20,
+    "name": "Hani Oktaviani M.Kom.",
+    "email": "Alena_Zulaika37@yahoo.co.id",
+    "chinese": 82001,
+    "math": 65791,
+    "english": 13273
+  },
+  {
+    "key": 21,
+    "name": "Uchita Melani",
+    "email": "Susie57@gmail.com",
+    "chinese": 45493,
+    "math": 83682,
+    "english": 60082
+  },
+  {
+    "key": 22,
+    "name": "Carla Yuniar",
+    "email": "Shany.Manullang@gmail.co.id",
+    "chinese": 308,
+    "math": 5477,
+    "english": 79712
+  },
+  {
+    "key": 23,
+    "name": "Balidin Hutasoit",
+    "email": "Nathen.Puspasari@gmail.co.id",
+    "chinese": 12077,
+    "math": 15553,
+    "english": 29132
+  },
+  {
+    "key": 24,
+    "name": "Nugraha Lazuardi",
+    "email": "Filomena_Setiawan@gmail.co.id",
+    "chinese": 34055,
+    "math": 64033,
+    "english": 95117
+  },
+  {
+    "key": 25,
+    "name": "Padma Purwanti S.E.",
+    "email": "Marcelino94@yahoo.com",
+    "chinese": 55266,
+    "math": 81783,
+    "english": 99299
+  },
+  {
+    "key": 26,
+    "name": "Cakrabuana Anggriawan",
+    "email": "Brown_Mardhiyah@yahoo.com",
+    "chinese": 53772,
+    "math": 61674,
+    "english": 57084
+  },
+  {
+    "key": 27,
+    "name": "Luluh Iswahyudi",
+    "email": "Ariane22@gmail.co.id",
+    "chinese": 37013,
+    "math": 98161,
+    "english": 34919
+  },
+  {
+    "key": 28,
+    "name": "Ian Sihotang",
+    "email": "Arnoldo_Handayani64@gmail.com",
+    "chinese": 63295,
+    "math": 81586,
+    "english": 72646
+  },
+  {
+    "key": 29,
+    "name": "Panca Saefullah S.Ked",
+    "email": "Herman_Zulkarnain@yahoo.com",
+    "chinese": 34489,
+    "math": 92448,
+    "english": 96133
+  },
+  {
+    "key": 30,
+    "name": "Dirja Uwais",
+    "email": "Rhiannon.Widodo56@gmail.co.id",
+    "chinese": 29722,
+    "math": 5540,
+    "english": 39428
+  },
+  {
+    "key": 31,
+    "name": "Pia Oktaviani",
+    "email": "Sven_Waluyo44@yahoo.co.id",
+    "chinese": 71719,
+    "math": 87340,
+    "english": 26954
+  },
+  {
+    "key": 32,
+    "name": "Mursinin Budiyanto",
+    "email": "Kendrick_Sinaga@yahoo.co.id",
+    "chinese": 78849,
+    "math": 8145,
+    "english": 53137
+  },
+  {
+    "key": 33,
+    "name": "Karimah Wahyuni",
+    "email": "Cleora.Irawan@yahoo.co.id",
+    "chinese": 78785,
+    "math": 64202,
+    "english": 39005
+  },
+  {
+    "key": 34,
+    "name": "Vanya Aryani",
+    "email": "Sydni.Wijayanti@yahoo.com",
+    "chinese": 21111,
+    "math": 97130,
+    "english": 94081
+  },
+  {
+    "key": 35,
+    "name": "Pandu Simanjuntak",
+    "email": "Virginie.Usamah61@gmail.com",
+    "chinese": 79284,
+    "math": 49436,
+    "english": 90096
+  },
+  {
+    "key": 36,
+    "name": "Prasetya Nababan",
+    "email": "Chauncey.Kuswoyo12@yahoo.com",
+    "chinese": 62633,
+    "math": 10654,
+    "english": 20836
+  },
+  {
+    "key": 37,
+    "name": "Widya Nasyidah",
+    "email": "Orval_Hakim@gmail.co.id",
+    "chinese": 52589,
+    "math": 71342,
+    "english": 80942
+  },
+  {
+    "key": 38,
+    "name": "Latika Wijayanti",
+    "email": "Bonita41@gmail.com",
+    "chinese": 97176,
+    "math": 10773,
+    "english": 45205
+  },
+  {
+    "key": 39,
+    "name": "Raden Budiyanto S.IP",
+    "email": "Pattie.Saefullah@gmail.com",
+    "chinese": 22955,
+    "math": 66316,
+    "english": 12332
+  }
+]

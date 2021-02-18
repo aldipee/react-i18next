@@ -1,0 +1,21 @@
+{
+  "title": "Dibuat oleh seseorang",
+  "HomeData": {
+    "title": "Data Siswa",
+    "table": {
+      "name": "Nama Lengkap",
+      "email": "Surel",
+      "cnScore": "Nilai Mandarin",
+      "mathScore": "Nilai Matematika",
+      "enScore": "Nilai Bahasa Inggris"
+    }
+  },
+  "SideMenu": {
+    "data": "Data",
+    "user": {
+      "title": "Pengguna",
+      "userManagement": "Manajemen Pengguna"
+    },
+    "file": "Berkas"
+  }
+}
